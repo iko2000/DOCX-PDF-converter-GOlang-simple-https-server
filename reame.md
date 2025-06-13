@@ -7,7 +7,7 @@ A simple Go HTTP server that converts DOCX files to PDF using the UniOffice libr
 - Upload DOCX files via web interface
 - Convert to PDF format
 - Download converted files
-- Clean API endpoints
+- Clean API endpoints -
 - Automatic file cleanup
 
 ## Installation
